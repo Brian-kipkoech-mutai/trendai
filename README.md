@@ -1,1 +1,2 @@
 # trendai
+# trend.ai
